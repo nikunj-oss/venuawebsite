@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-cheque: Cheque;
+  --font-abyssinica-sil: "Abyssinica SIL";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-47xl: 66px;
+  --font-size-16xl: 35px;
+  --font-size-mid-8: 17.8px;
+  --font-size-base: 16px;
+  --font-size-11xl: 30px;
+  --font-size-31xl: 50px;
+  --font-size-22xl-7: 41.7px;
+
+  /* Colors */
+  --color-gray-100: #fcfcfc;
+  --color-gray-200: #222;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-darkgray: #9e9d9d;
+
+  /* Gaps */
+  --gap-35xl: 54px;
+  --gap-18xl: 37px;
+  --gap-33xl-5: 52.5px;
+  --gap-51xl: 70px;
+  --gap-mid: 17px;
+  --gap-79xl: 98px;
+
+  /* Paddings */
+  --padding-22xl: 41px;
+
+  /* Border radiuses */
+  --br-117xl-2: 136.2px;
+  --br-289xl: 308px;
+  --br-16xl: 35px;
+}

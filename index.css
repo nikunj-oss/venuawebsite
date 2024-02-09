@@ -1,0 +1,822 @@
+.vector-icon,
+.vector-icon1,
+.vector-icon2 {
+  position: absolute;
+  height: 9.89%;
+  width: 41.88%;
+  top: 7.59%;
+  right: 71.74%;
+  bottom: 82.52%;
+  left: -13.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.vector-icon1,
+.vector-icon2 {
+  top: 14.38%;
+  right: -4.65%;
+  bottom: 75.73%;
+  left: 62.78%;
+}
+.vector-icon2 {
+  top: 29.47%;
+  right: 65.21%;
+  bottom: 60.64%;
+  left: -7.08%;
+}
+.vector-icon3,
+.vector-icon4,
+.vector-icon5,
+.vector-icon6,
+.vector-icon7,
+.vector-icon8 {
+  position: absolute;
+  height: 6.59%;
+  width: 27.92%;
+  top: 29.14%;
+  right: 1.74%;
+  bottom: 64.27%;
+  left: 70.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.vector-icon4,
+.vector-icon5,
+.vector-icon6,
+.vector-icon7,
+.vector-icon8 {
+  height: 9.89%;
+  width: 41.88%;
+  top: 53.25%;
+  right: 88.33%;
+  bottom: 36.86%;
+  left: -30.21%;
+}
+.vector-icon5,
+.vector-icon6,
+.vector-icon7,
+.vector-icon8 {
+  height: 9.35%;
+  width: 34.93%;
+  top: 65.89%;
+  right: -8.89%;
+  bottom: 24.76%;
+  left: 73.96%;
+}
+.vector-icon6,
+.vector-icon7,
+.vector-icon8 {
+  top: 75.07%;
+  right: 79.38%;
+  bottom: 15.58%;
+  left: -14.31%;
+}
+.vector-icon7,
+.vector-icon8 {
+  top: 80.5%;
+  right: -8.89%;
+  bottom: 10.15%;
+  left: 73.96%;
+}
+.vector-icon8 {
+  top: 88.21%;
+  right: 61.88%;
+  bottom: 2.44%;
+  left: 3.19%;
+}
+.frame-icon,
+.frame-icon1,
+.frame-icon2,
+.frame-icon3,
+.frame-icon4 {
+  position: absolute;
+  height: 1.39%;
+  width: 5.88%;
+  top: 50.13%;
+  right: 87.25%;
+  bottom: 48.48%;
+  left: 6.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-icon1,
+.frame-icon2,
+.frame-icon3,
+.frame-icon4 {
+  top: 18.12%;
+  right: 89.26%;
+  bottom: 80.49%;
+  left: 4.86%;
+}
+.frame-icon2,
+.frame-icon3,
+.frame-icon4 {
+  top: 40.67%;
+  right: 3.99%;
+  bottom: 57.94%;
+  left: 90.14%;
+}
+.frame-icon3,
+.frame-icon4 {
+  top: 51.41%;
+  right: 6.9%;
+  bottom: 47.2%;
+  left: 87.22%;
+}
+.frame-icon4 {
+  top: 65.76%;
+  right: 92.32%;
+  bottom: 32.85%;
+  left: 1.81%;
+}
+.frame-icon10,
+.frame-icon11,
+.frame-icon5,
+.frame-icon6,
+.frame-icon7,
+.frame-icon8,
+.frame-icon9 {
+  position: absolute;
+  height: 1.39%;
+  width: 5.88%;
+  top: 75.24%;
+  right: 5.1%;
+  bottom: 23.37%;
+  left: 89.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-icon10,
+.frame-icon11,
+.frame-icon6,
+.frame-icon7,
+.frame-icon8,
+.frame-icon9 {
+  top: 77.17%;
+  right: 93.85%;
+  bottom: 21.44%;
+  left: 0.28%;
+}
+.frame-icon10,
+.frame-icon11,
+.frame-icon7,
+.frame-icon8,
+.frame-icon9 {
+  top: 91.24%;
+  right: 71.76%;
+  bottom: 7.37%;
+  left: 22.36%;
+}
+.frame-icon10,
+.frame-icon11,
+.frame-icon8,
+.frame-icon9 {
+  top: 87.09%;
+  right: 12.25%;
+  bottom: 11.52%;
+  left: 81.88%;
+}
+.frame-icon10,
+.frame-icon11,
+.frame-icon9 {
+  top: 94.46%;
+  right: 5.1%;
+  bottom: 4.16%;
+  left: 89.03%;
+}
+.frame-icon10,
+.frame-icon11 {
+  top: 60.17%;
+  right: 84.26%;
+  bottom: 38.45%;
+  left: 9.86%;
+}
+.frame-icon11 {
+  top: 65.2%;
+  right: 5.1%;
+  bottom: 33.41%;
+  left: 89.03%;
+}
+.copyright-vnuva-bvp {
+  position: absolute;
+  top: 192px;
+  left: calc(50% - 94px);
+  line-height: 20px;
+}
+.home {
+  position: relative;
+  line-height: 20px;
+}
+.frame {
+  position: absolute;
+  top: 90px;
+  left: calc(50% - 218px);
+  width: 437px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-22xl) 0;
+  box-sizing: border-box;
+  gap: var(--gap-51xl);
+}
+.image-837-icon {
+  width: 48px;
+  position: relative;
+  height: 37px;
+  object-fit: cover;
+}
+.arcticonsinstagram {
+  width: 48.8px;
+  position: relative;
+  height: 48.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.linkedin-1-icon {
+  width: 48px;
+  position: relative;
+  height: 48px;
+  object-fit: cover;
+}
+.image-837-parent {
+  position: absolute;
+  top: 37px;
+  left: calc(50% - 179px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-33xl-5);
+}
+.footer-child {
+  position: absolute;
+  top: -0.5px;
+  left: calc(50% - 600.5px);
+  border-top: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 1201px;
+  height: 1px;
+}
+.footer {
+  position: absolute;
+  top: 5857px;
+  left: calc(50% - 602px);
+  width: 1200px;
+  height: 212px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}
+.dm1-to-prepare {
+  margin: 0;
+}
+.dm1-to-prepare-container {
+  position: absolute;
+  width: 100%;
+  top: 108px;
+  left: 0;
+  display: inline-block;
+  height: 396px;
+}
+.mission-dept-child {
+  position: absolute;
+  width: 18.28%;
+  top: 76.2px;
+  right: 40.86%;
+  left: 40.86%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 0.8px;
+  object-fit: contain;
+}
+.mission {
+  position: absolute;
+  top: 0;
+  left: 40.94%;
+  font-size: var(--font-size-47xl);
+  text-align: center;
+}
+.mission-dept {
+  position: absolute;
+  width: 100%;
+  top: 1502px;
+  right: 0;
+  left: 0;
+  height: 504px;
+}
+.the-department-aspires {
+  position: absolute;
+  width: 100%;
+  top: 108px;
+  left: 0;
+  display: inline-block;
+  height: 132px;
+}
+.vision-dept-child {
+  position: absolute;
+  width: 14.24%;
+  top: 76.4px;
+  right: 42.88%;
+  left: 42.88%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 0.6px;
+  object-fit: contain;
+}
+.vision {
+  position: absolute;
+  top: 0;
+  left: 42.56%;
+  font-size: var(--font-size-47xl);
+  text-align: center;
+}
+.vision-dept {
+  position: absolute;
+  width: 100%;
+  top: 1192px;
+  right: 0;
+  left: 0;
+  height: 240px;
+}
+.the-department-of-container {
+  position: absolute;
+  width: 100%;
+  top: 108px;
+  left: 0;
+  display: inline-block;
+  height: 792px;
+}
+.about-dept-child {
+  position: absolute;
+  width: 23.09%;
+  top: 76px;
+  right: 39.09%;
+  left: 37.82%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1px;
+  object-fit: contain;
+}
+.about-us {
+  position: absolute;
+  width: 31.13%;
+  top: 0;
+  left: 33.79%;
+  font-size: var(--font-size-47xl);
+  text-align: center;
+  display: inline-block;
+  height: 63px;
+}
+.about-dept {
+  position: absolute;
+  width: 100%;
+  top: 222px;
+  right: 0;
+  left: 0;
+  height: 900px;
+}
+.dept-details-child {
+  position: absolute;
+  width: 81.15%;
+  top: 161.9px;
+  right: 9.18%;
+  left: 9.67%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  height: 1px;
+}
+.department-of-electronics {
+  position: absolute;
+  width: 96.52%;
+  top: 0;
+  left: 2.02%;
+  font-size: var(--font-size-47xl);
+  text-transform: capitalize;
+  text-align: center;
+  display: inline-block;
+  height: 152px;
+}
+.dept-details {
+  position: absolute;
+  width: 85.83%;
+  top: 3744px;
+  right: 7.08%;
+  left: 7.08%;
+  height: 2006px;
+  text-align: justify;
+}
+.dr-apoorva-aggarwal {
+  position: relative;
+  text-transform: capitalize;
+}
+.best-researcher-awardbvcoe-,
+.exemplary-performance-in {
+  width: 861.3px;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  height: 88px;
+  flex-shrink: 0;
+}
+.exemplary-performance-in {
+  height: 132px;
+}
+.dr-apoorva-aggarwal-parent {
+  position: absolute;
+  width: 67.27%;
+  top: 24px;
+  right: 0;
+  left: 32.73%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+}
+.frame-parent,
+.image-12-icon {
+  position: absolute;
+  left: 0;
+  height: 343px;
+}
+.image-12-icon {
+  width: 29.68%;
+  top: 0;
+  right: 70.32%;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-parent {
+  width: 100%;
+  top: 105px;
+  right: 0;
+}
+.faculty-mentor-child {
+  position: absolute;
+  width: 35.54%;
+  top: 75.9px;
+  right: 31.17%;
+  left: 33.28%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  height: 1px;
+}
+.faculty-mentor1 {
+  position: absolute;
+  width: 42.09%;
+  top: 0;
+  left: 30.23%;
+  font-size: var(--font-size-47xl);
+  text-transform: capitalize;
+  text-align: center;
+  display: inline-block;
+  height: 63px;
+}
+.faculty-mentor {
+  position: absolute;
+  width: 85.83%;
+  top: 2329px;
+  right: 6.81%;
+  left: 7.36%;
+  height: 448px;
+  text-align: left;
+}
+.founders {
+  position: absolute;
+  top: 0;
+  left: 36.91%;
+  text-transform: capitalize;
+}
+.founder-child {
+  position: absolute;
+  width: 32.67%;
+  top: 75.9px;
+  right: 30.95%;
+  left: 36.38%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  height: 1px;
+}
+.image-5-icon,
+.image-6-icon {
+  width: 267.6px;
+  position: relative;
+  border-radius: var(--br-289xl);
+  height: 557.6px;
+  object-fit: cover;
+}
+.image-6-icon {
+  width: 266.3px;
+}
+.harsh-vats-parent,
+.image-5-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 314px;
+}
+.harsh-vats-parent {
+  gap: 390px;
+}
+.frame-group {
+  position: absolute;
+  width: 100%;
+  top: 164px;
+  right: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-18xl);
+  text-align: left;
+  font-size: var(--font-size-16xl);
+}
+.founder {
+  position: absolute;
+  width: 58.88%;
+  top: 2859px;
+  right: 22.16%;
+  left: 18.96%;
+  height: 802.6px;
+  font-size: var(--font-size-47xl);
+}
+.vision-1-child {
+  position: absolute;
+  top: 281px;
+  left: calc(50% - 145px);
+  width: 290px;
+  height: 109.6px;
+}
+.the-college-fashion {
+  position: absolute;
+  top: 303px;
+  left: calc(50% - 133px);
+  display: inline-block;
+  width: 247px;
+  height: 66px;
+}
+.community-pic-1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 125px);
+  border-radius: 136.23px;
+  width: 250px;
+  height: 250px;
+  object-fit: contain;
+}
+.vision-1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.here-we-not,
+.it-provides-a {
+  position: absolute;
+  top: 303px;
+  left: calc(50% - 124px);
+  display: inline-block;
+  width: 247px;
+  height: 66px;
+}
+.here-we-not {
+  top: 293px;
+  left: calc(50% - 125px);
+  height: 87px;
+}
+.vision-1-parent {
+  position: absolute;
+  width: 100%;
+  top: 179px;
+  right: 0;
+  left: 0;
+  height: 390.6px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 23px;
+}
+.vision-child {
+  position: absolute;
+  width: 30.96%;
+  top: 75.5px;
+  right: 34.34%;
+  left: 34.7%;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  height: 1px;
+}
+.our-vision {
+  position: absolute;
+  width: 36.21%;
+  top: 0;
+  left: 31.9%;
+  font-size: var(--font-size-47xl);
+  display: inline-block;
+  height: 76px;
+}
+.vision1,
+.vision2 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 569.6px;
+}
+.vision1 {
+  width: 85.35%;
+  top: 1677px;
+  right: 7.29%;
+  left: 7.36%;
+  font-size: var(--font-size-mid-8);
+}
+.vnuva-the-fashion {
+  position: absolute;
+  width: 100%;
+  top: 137px;
+  left: 0;
+  display: inline-block;
+  height: 352px;
+}
+.about-child {
+  position: absolute;
+  width: 23.09%;
+  top: 105px;
+  right: 39.09%;
+  left: 37.82%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1px;
+  object-fit: contain;
+}
+.about-us1 {
+  position: absolute;
+  width: 31.13%;
+  top: 29px;
+  left: 33.79%;
+  font-size: var(--font-size-47xl);
+  text-align: center;
+  display: inline-block;
+  height: 63px;
+}
+.logo-icon {
+  position: absolute;
+  width: 11.99%;
+  top: 0;
+  right: 5.31%;
+  left: 82.7%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 106px;
+  object-fit: cover;
+}
+.about1 {
+  position: absolute;
+  width: 85.83%;
+  top: 1106px;
+  right: 7.29%;
+  left: 6.88%;
+  height: 489px;
+  text-align: justify;
+}
+.landing-page-bg {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1024px;
+  object-fit: cover;
+}
+.t-h-e {
+  position: absolute;
+  width: 84.51%;
+  top: 923px;
+  left: 7.78%;
+  font-weight: 900;
+  white-space: pre-wrap;
+  display: inline-block;
+  height: 69px;
+}
+.landing-page-child {
+  position: absolute;
+  top: 925.5px;
+  left: 192.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1065px;
+  height: 1px;
+}
+.vnuva {
+  position: absolute;
+  width: 18.96%;
+  top: 842px;
+  left: 40.56%;
+  font-weight: 900;
+  display: inline-block;
+  height: 69px;
+}
+.about2,
+.contact-us1,
+.events1,
+.home1 {
+  width: 78px;
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+  height: 29px;
+  flex-shrink: 0;
+}
+.about2,
+.contact-us1,
+.events1 {
+  width: 93px;
+}
+.contact-us1,
+.events1 {
+  width: 88px;
+}
+.contact-us1 {
+  width: 154px;
+}
+.image-9-icon,
+.menu-bar {
+  position: absolute;
+  top: 37px;
+}
+.menu-bar {
+  width: 42.97%;
+  right: 6.5%;
+  left: 50.52%;
+  box-shadow: 0 0 4px #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-35xl);
+}
+.image-9-icon {
+  width: 2.47%;
+  right: 0;
+  left: 97.53%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 33px;
+  object-fit: cover;
+}
+.logo-icon1,
+.top-bar {
+  position: absolute;
+  top: 0;
+  height: 122px;
+}
+.logo-icon1 {
+  width: 13.36%;
+  right: 86.64%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.top-bar {
+  width: 92.92%;
+  right: 3.54%;
+  left: 3.54%;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.landing-page {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 1024px;
+  font-size: var(--font-size-47xl);
+  font-family: var(--font-cheque);
+}
+.main {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-200);
+  height: 6098px;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  font-family: var(--font-abyssinica-sil);
+}
